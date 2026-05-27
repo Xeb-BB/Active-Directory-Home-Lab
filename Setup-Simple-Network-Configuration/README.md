@@ -27,16 +27,4 @@ In this lab, I will:
 
 ### 🎯 Goal
 
-To improve my networking, troubleshooting, and virtualization skills through real-world lab practice and documentation 🚀
-
-
-### ✅ Procedure Checklist
--------------------In Progress
-### 🗺️ Network Flowchart
--------------------In Progress
-### 📸 Lab Screenshots
--------------------In Progress
-### 📝 Configuration Documentation
--------------------In Progress
-### 🛠️ Troubleshooting Notes
--------------------In Progress
+To improve my networking, troubleshooting, and virtualization skills through real-world lab practice and documentation.
