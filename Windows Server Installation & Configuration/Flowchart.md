@@ -25,6 +25,6 @@ flowchart TD
     end
 
     %% Final Outcome
-    M --> N([🚀 System Auto-Reboots\nLog in as CSS\\Administrator])
+    M --> N([ System Auto-Reboots\nLog in as CSS\\Administrator])
 
 
