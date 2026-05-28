@@ -1,5 +1,5 @@
 
-## ⚙️ Phase 1: Initial Server Configuration
+##  Phase 1: Initial Server Configuration
 *Complete these baseline steps before touching any server roles to avoid configuration conflicts.*
 
 ### 1. Rename the Server
@@ -34,7 +34,7 @@
 
 ---
 
-## 🔑 Phase 2: Role Installation & Configuration (Active Directory)
+##  Phase 2: Role Installation & Configuration (Active Directory)
 *Now that your baseline settings are locked in, build out the domain infrastructure.*
 
 ### 1. Add the AD DS and DNS Roles
