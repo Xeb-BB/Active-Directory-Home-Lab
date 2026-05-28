@@ -1,10 +1,10 @@
-# 🌐 Setup Network Configuration
+# 🌐 Setup Simple Network Configuration
 
-This project is a simple networking lab using VirtualBox for hands-on practice in IT Support and System Administration 💻
+This project is a simple networking lab for hands-on practice in IT Support and System Administration 💻
 
 In this lab, I will:
 
-* 🖥️ Setup virtual machines
+* 🖥️ Setup Client and Server
 * 🌍 Configure basic network settings
 * 🔌 Test server and client connectivity
 * 📡 Assign IP addresses
@@ -12,7 +12,6 @@ In this lab, I will:
 
 ### 🧰 Tools Used
 
-* VirtualBox
 * Windows Server 2022 (Server)
 * Windows 10 PRO (Client)
 * Basic Networking
