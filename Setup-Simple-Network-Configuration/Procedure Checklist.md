@@ -1,7 +1,7 @@
 ### Procedure Checklist
 
 ## 1. Physical Layer Connectivity
-Connect: Attach the client device to the router using a network cable (Ethernet).
+Connect: Attach the client and server device to the router using a network cable (Ethernet).
 
 Verify: Confirm that both the WAN and LAN indicators on the router are blinking, signaling active data transmission.
 
@@ -17,11 +17,11 @@ Update IP: Within the ISP configuration portal, change the router’s IP address
 
 Refresh Connection: Toggle the network adapter (Disable/Enable) on the host machine and power cycle (restart) the router.
 
-Configure DHCP: Set the local DHCP range to 192.168.1.1 – 192.168.1.254.
+Configure DHCP: Set the local DHCP range to 192.168.1.1 – 192.168.1.254. Client must recieved IP automatically.
 
-Reserve Address: Set a static reservation for the router's IP to prevent IP conflicts with other network devices. Restart the router to apply settings.
+Reserve Address: Set a static reservation for the server's IP to prevent other device use it. 
 
-Verify: Run ipconfig on the client to ensure it has received an IP address within the new configuration.
+Verify: Run ipconfig on the client and server to ensure it has received an IP address within the new configuration.
 
 ## 4. Security Hardening
 Access Control: Change the default administrator password to a strong, unique credential.
