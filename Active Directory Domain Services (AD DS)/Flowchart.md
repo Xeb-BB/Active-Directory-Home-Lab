@@ -1,6 +1,6 @@
 ```mermaid 
 flowchart TD
-    START([ START: Phase 3]) --> A[Open Active Directory Users and Computers]
+    START([ START]) --> A[Open Active Directory Users and Computers]
 
     %% OU Tree Structure
     subgraph OU_Setup [ 1. Organizational Unit Hierarchy]
