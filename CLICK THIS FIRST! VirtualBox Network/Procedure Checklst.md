@@ -14,7 +14,7 @@
 
 ### Change Attached to: from NAT to Internal Network.
 
-### In the Name: dropdown/field, type a unique name for your private lab network (e.g., Lab_Network).
+### In the Name: dropdown/field, type a unique name for your private lab network (ex. Lab_Network).
 
 ### Expand the Advanced section -> Ensure Promiscuous Mode is set to Allow All.
 
@@ -42,6 +42,6 @@
 ## Part 3: Verification (What to Expect)
 ### Boot both virtual machines.
 
-### Assign a static IP address to your Windows Server (e.g., 192.168.5.5).
+### Assign a static IP address to your Windows Server (ex. 192.168.5.5).
 
 ### Once your DHCP lab module is completed later, your Windows Client will automatically pull a 192.168.5.x IP address from the server through this internal network link.
