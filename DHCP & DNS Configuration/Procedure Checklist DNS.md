@@ -3,7 +3,7 @@
 ## Step 1: Install Roles
 ### Open Server Manager -> Manage -> Add Roles and Features.
 ### Click Next until you reach Server Roles.
-### Check DNS Server (if not already active) and DHCP Server (click Add Features on the popup).
+### Check DNS Server (click Add Features on the popup).
 ### Click Next to the end, check Restart automatically if required, and click Install.
 
 ## Step 2: Create Reverse Lookup Zone
