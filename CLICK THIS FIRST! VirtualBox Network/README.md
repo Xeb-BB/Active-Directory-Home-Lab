@@ -24,5 +24,5 @@
 ---
 
 # VirtualBox Private Network Topology
+<img src="INTERNAL_NETWORK_VM.png" alt="Network Diagram" width="70%">
 
-![Virtual Network Topology](INTERNAL_NETWORK_VM.png)
