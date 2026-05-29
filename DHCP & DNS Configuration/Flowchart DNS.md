@@ -1,7 +1,7 @@
 ```mermaid 
 flowchart TD
     Start([Start]) --> Step1[Step 1: Install Roles<br>Server Manager -> Manage -> Add Roles and Features]
-    Step1 --> Step1a[Click Next to Server Roles<br>Check DNS Server & DHCP Server]
+    Step1 --> Step1a[Click Next to Server Roles<br>Check DNS Server]
     Step1a --> Step1b[Click Next to End<br>Check 'Restart automatically' -> Install]
     
     Step1b --> Step2[Step 2: Create Reverse Lookup Zone<br>Server Manager -> Tools -> DNS]
