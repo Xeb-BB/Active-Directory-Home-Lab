@@ -4,15 +4,15 @@
 
 ### Possible Causes
 
-- Loose Ethernet cable
-- Router not powered on
-- Incorrect WAN configuration
+#### Loose Ethernet cable
+#### Router not powered on
+#### Incorrect WAN configuration
 
 ### Solution
 
-* Reconnect Ethernet cable securely
-* Restart router and modem
-* Verify WAN settings in router admin panel
+#### Reconnect Ethernet cable securely
+#### Restart router and modem
+#### Verify WAN settings in router admin panel
 
 ---
 
@@ -20,15 +20,15 @@
 
 ### Possible Causes
 
-* Wrong default gateway
-* Incorrect IP address entered
-* Network adapter issue
+#### Wrong default gateway\
+#### Incorrect IP address entered
+#### Network adapter issue
 
 ### Solution
 
-* Run "ipconfig" to verify gateway address
-* Ensure browser uses correct IP (192.168.1.1)
-* Disable and enable network adapter
+#### Run "ipconfig" to verify gateway address
+#### Ensure browser uses correct IP (192.168.1.1)
+#### Disable and enable network adapter
 
 ---
 
@@ -36,15 +36,15 @@
 
 ### Possible Causes
 
-* Faulty cable
-* Damaged router port
-* No active network connection
+#### Faulty cable
+#### Damaged router port
+#### No active network connection
 
 ### Solution
 
-* Replace Ethernet cable
-* Try another router LAN port
-* Restart networking devices
+#### Replace Ethernet cable
+#### Try another router LAN port
+#### Restart networking devices
 
 ---
 
@@ -52,15 +52,15 @@
 
 ### Possible Causes
 
-* DHCP disabled
-* Incorrect DHCP range
-* Router configuration not applied
+#### DHCP disabled
+#### Incorrect DHCP range
+#### Router configuration not applied
 
 ### Solution
 
-* Enable DHCP service
-* Verify DHCP range configuration
-* Restart router and reconnect client
+#### Enable DHCP service
+#### Verify DHCP range configuration
+#### Restart router and reconnect client
 
 ---
 
@@ -68,14 +68,14 @@
 
 ### Possible Causes
 
-* Duplicate static IP address
-* Incorrect IP reservation
+#### Duplicate static IP address
+#### Incorrect IP reservation
 
 ### Solution
 
-* Assign unique static IP addresses
-* Review DHCP reservations
-* Restart affected devices
+#### Assign unique static IP addresses
+#### Review DHCP reservations
+#### Restart affected devices
 
 ---
 
@@ -83,15 +83,15 @@
 
 ### Possible Causes
 
-* Incorrect Wi-Fi password
-* WPA3 incompatibility
-* Wireless adapter disabled
+#### Incorrect Wi-Fi password
+#### WPA3 incompatibility
+#### Wireless adapter disabled
 
 ### Solution
 
-* Re-enter Wi-Fi password carefully
-* Switch from WPA3 to WPA2 if unsupported
-* Enable wireless adapter
+#### Re-enter Wi-Fi password carefully
+#### Switch from WPA3 to WPA2 if unsupported
+#### Enable wireless adapter
 
 ---
 
@@ -99,15 +99,15 @@
 
 ### Possible Causes
 
-* Weak wireless signal
-* Too many connected devices
-* Network interference
+#### Weak wireless signal
+#### Too many connected devices
+#### Network interference
 
 ### Solution
 
-* Move closer to router
-* Reduce unnecessary connected devices
-* Change wireless channel
+#### Move closer to router
+#### Reduce unnecessary connected devices
+#### Change wireless channel
 
 ---
 
@@ -115,13 +115,13 @@
 
 ### Possible Causes
 
-* Router settings not saved
-* Router restart required
+#### Router settings not saved
+#### Router restart required
 
 ### Solution
 
-* Save all settings before exiting
-* Reboot router after configuration changes
+#### Save all settings before exiting
+#### Reboot router after configuration changes
 
 ```
 ```
