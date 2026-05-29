@@ -1,5 +1,5 @@
 
-## 📂 Step 1: Create Folder & Configure 
+## Step 1: Create Folder & Configure 
 
 ### 1. On your server's data drive (e.g., `D:\`), right-click -> **New** -> **Folder**. Name it `Company_Share`.
 ### 2. Right-click the folder -> **Properties** -> **Sharing** tab -> Click **Advanced Sharing...**.
@@ -10,7 +10,7 @@
 
 ---
 
-## 🔗 Step 2: Map Network Drive on Client
+## Step 2: Map Network Drive on Client
 
 ### 1. Copy the **Network Path** from the folder's *Sharing* tab (e.g., `\\server-name\Company_Share`).
 ### 2. Log into the client machine as a domain user (e.g., `jbenriquez`).
