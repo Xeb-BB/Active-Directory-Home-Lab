@@ -6,8 +6,8 @@
 ### Evidence:
 <table>
   <tr>
-    <td><img src="images/pic1.png" width="300" alt="Step 1"></td>
-    <td><img src="images/pic2.png" width="300" alt="Step 2"></td>
+    <td><img src="../images/Access_Denied.jpg" width="500" alt="Step 1"></td>
+    <td><img src="../images/Access_Denied_Solutioin.jpg" width="500" alt="Step 2"></td>
   </tr>
 </table>
 
