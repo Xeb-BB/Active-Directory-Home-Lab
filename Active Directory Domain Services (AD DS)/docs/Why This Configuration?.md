@@ -3,7 +3,7 @@
 ## 1. The Multi-Tier OU Hierarchy (Organizing the Lab)
 ### Think of an Organizational Unit (OU) as a folder inside your domain. Instead of throwing all your users, groups, and computers into one messy pile, nesting them under a Corporate anchor folder creates a clean structure.
 
-picture
+![Hierarchy](Hierarchy.png)
 
 ### - By keeping your computers and users in separate folders, you can apply rules (like a custom desktop wallpaper) to employees' screens without accidentally breaking your Domain Controllers or servers.
 
