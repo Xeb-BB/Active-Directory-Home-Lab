@@ -1,6 +1,6 @@
 # Joining the Domain (On the Client Machine)
-Now that the client can talk to the server, it’s time to perform the domain join.
-
+### Now that the client can talk to the server, it’s time to perform the domain join.
+--- 
 ## Open System Settings
 
 ### Press Win + R, type sysdm.cpl, and hit Enter to open the classic System Properties utility.
@@ -19,9 +19,9 @@ Now that the client can talk to the server, it’s time to perform the domain jo
 
 ### When the Windows Security prompt appears, provide credentials for an account authorized to join machines to the domain:
 
-### Username: Administrator
+### *Username: Administrator*
 
-### Password: [Domain Admin Password] 
+### *Password: [Domain Admin Password]* 
 
 ## Confirm Welcome Message
 
