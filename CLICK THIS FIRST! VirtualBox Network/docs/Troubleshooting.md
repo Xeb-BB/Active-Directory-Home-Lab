@@ -8,6 +8,8 @@
 
 ### Solution: On the Windows Server, open Windows Defender Firewall -> click Inbound Rules -> find File and Printer Sharing (Echo Request - ICMPv4-In) -> right-click it and choose Enable Rule.
 
+### Lesson Learned: A failed ping doesn't always mean your network cables or settings are broken. Security features like firewalls are built to drop connection requests silently. Turning on ping responses (ICMP) is always your first step to confirm your machines can actually see each other.
+
 ## 2. Wrong IP Address on Client (APIPA Loop)
 ### Problem: The Windows Client gets a broken, useless IP address and can't connect to the server.
 
@@ -17,3 +19,4 @@
 
 ### Solution: 1. Check your VirtualBox settings for both VMs and make sure the network name (Lab_Network) matches exactly.
 ### 2. If they match, go to the Server, open services.msc, find DHCP Server, and click Restart.
+### Lesson Learned: Whenever you see an IP address starting with 169.254, it means the client is looking for a network but cannot find a DHCP server. It instantly tells you that your problem is either a disconnected cable (mismatched network names) or a stopped service on the server.
