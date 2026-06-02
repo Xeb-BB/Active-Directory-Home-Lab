@@ -9,8 +9,6 @@ This lab module focuses on deploying the network baseline required for any enter
 
 ### DHCP Manager (Post-installation Authorization, Active Directory Integration)
 
-### Networking Pool: IPv4 Scope targeting the 192.168.5.0/24 subnet
-
 ### Command Line Interface: nslookup for network resolution verification
 
 ## What to Expect in This Section
