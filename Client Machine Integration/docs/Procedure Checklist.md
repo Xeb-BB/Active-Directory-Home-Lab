@@ -49,3 +49,6 @@
 ### Open Active Directory Users and Computers.
 
 ### Navigate to the Computers container and verify that the client machine's hostname is populated in the database.
+
+<img src="../images/joined_domain.jpg" alt="Network Diagram" width="100%">
+
