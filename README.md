@@ -22,16 +22,14 @@ This repository also serves as:
 
 # Table of Contents
 
-* [Setup Simple Network Configuration](#setup-simple-network-configuration)
-* [Windows Server Installation & Configuration](#windows-server-installation--configuration)
-* [Active Directory Domain Services (AD DS)](#active-directory-domain-services-ad-ds)
-* [Client Machine Integration](#client-machine-integration)
-* [DHCP & DNS Configuration](#dhcp--dns-configuration)
-* [Group Policy Management](#group-policy-management)
-* [Shared Folders & Permissions](#shared-folders--permissions)
-* [Troubleshooting & Documentation](#troubleshooting--documentation)
-* [VirtualBox Networking](#virtualbox-networking)
-* [Goal of This Project](#goal-of-this-project)
+* [Setup Simple Network Configuration](./Setup-Simple-Network-Configur...)
+* [Windows Server Installation & Configuration](./Windows%20Server%20Installation%20%26%20Co...)
+* [Active Directory Domain Services (AD DS)](./Active%20Directory%20Domain%20Services...)
+* [Client Machine Integration](./Client%20Machine%20Integration)
+* [DHCP & DNS Configuration](./DHCP%20%26%20DNS%20Configuration)
+* [Group Policy Management](./Group%20Policy%20Management)
+* [Shared Folders & Permissions](./Shared%20Folders%20%26%20Permissions)
+* [Troubleshooting & Documentation](./Troubleshooting%20%26%20Documentation)
 
 ---
 # Setup Simple Network Configuration
