@@ -22,9 +22,9 @@ This repository also serves as:
 
 # Table of Contents
 
-* [Setup Simple Network Configuration](./Setup-Simple-Network-Configur...)
-* [Windows Server Installation & Configuration](./Windows%20Server%20Installation%20%26%20Co...)
-* [Active Directory Domain Services (AD DS)](./Active%20Directory%20Domain%20Services...)
+* [Setup Simple Network Configuration](./Setup-Simple-Network-Configuration)
+* [Windows Server Installation & Configuration](./Windows%20Server%20Installation%20%26%20Configuration)
+* [Active Directory Domain Services (AD DS)](./Active%20Directory%20Domain%20Services%20(AD%20DS))
 * [Client Machine Integration](./Client%20Machine%20Integration)
 * [DHCP & DNS Configuration](./DHCP%20%26%20DNS%20Configuration)
 * [Group Policy Management](./Group%20Policy%20Management)
