@@ -1,23 +1,29 @@
-# Active Directory Home Lab Journey
+# Setup Computer Server Lab
 
-Welcome to my Active Directory Home Lab — a personal project driven by curiosity, perseverance, and my passion for growing in the IT field.
+Welcome to my **Setup Computer Server Lab**, a hands-on project focused on building and managing a Windows Server environment in a virtualized setting.
 
-This repository is more than just a virtual lab setup. It represents my hands-on journey into:
+This lab helps me develop practical experience in:
 
-* Networking
-* System Administration
-* Troubleshooting
-* Identity & Access Management
-* Enterprise Infrastructure
+- Windows Server Administration
+- Active Directory Domain Services (AD DS)
+- User and Group Management
+- DNS Configuration
+- Group Policy Management
+- Networking Fundamentals
+- System Troubleshooting
 
-Through this project, I am transforming theoretical knowledge into practical experience by building a complete Windows Server environment using VirtualBox, Windows clients, and Active Directory services.
-Every configuration, mistake, troubleshooting process, and successful deployment helps me improve my technical skills and better understand how real-world enterprise systems operate behind the scenes.
-This repository also serves as:
+Using **VirtualBox, Windows Server, and Windows Clients**, I simulate real-world enterprise scenarios to strengthen my technical skills and better understand how business IT infrastructures operate.
 
-* My learning journal
-* My hands-on lab environment
-* My IT portfolio documentation
-* My progression toward becoming a future System Administrator, IT Support Specialist, and Network Engineer
+## Purpose
+
+This repository serves as:
+
+- My hands-on learning environment
+- My technical documentation portfolio
+- A record of my troubleshooting journey
+- A showcase of my growing System Administration skills
+
+My goal is to continuously improve my knowledge in IT Support, System Administration, Networking, and Enterprise Infrastructure through practical experience.
 ---
 
 # Table of Contents
@@ -59,7 +65,4 @@ This repository also serves as:
 ## VirtualBox Networking
 ### Exploring NAT, Internal Networks, and virtual communication between systems inside the lab environment.
 ---
-## Goal of This Project
-### My goal is to gain real hands-on experience in IT Support, System Administration, Networking, Troubleshooting, and Enterprise Infrastructure through practical lab environments and documentation while continuously improving my technical and problem-solving skills through real-world lab environments and documentation.
-### Every completed lab is another step closer toward my dream career in IT.
 
