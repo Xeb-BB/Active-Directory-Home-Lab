@@ -1,4 +1,4 @@
-# Windows Server Installation & Configuration Lab
+# Lab Module: Windows Server Installation & Configuration Lab
 
 ##  Introduction
 This repository serves as a comprehensive, hands-on documentation guide for deploying and configuring a core corporate network infrastructure from scratch. Building an enterprise environment requires a systematic approach to system hardening, identity management, and network resource allocation. 
