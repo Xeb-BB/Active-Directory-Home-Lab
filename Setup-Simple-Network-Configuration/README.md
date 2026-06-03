@@ -1,4 +1,4 @@
-# Setup Simple Network Configuration
+# Lab Module: Setup Simple Network Configuration
 
 This project is a simple networking lab for hands-on practice in IT Support and System Administration 💻
 
@@ -21,7 +21,7 @@ In this lab, I will:
 * Procedure Checklist
 * Network Flowchart
 * Lab Screenshots
-* onfiguration Documentation
+* Configuration Documentation
 * Troubleshooting Notes
 
 ### Goal
